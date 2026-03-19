@@ -1,50 +1,56 @@
-📌 Mental Health Survey Data Analysis
-🎯 Objective
+# 🧠 Mental Health Survey Data Analysis
 
-Analyze survey data to identify factors affecting mental health and treatment behavior.
+## 🎯 Objective
+To analyze survey data and identify key factors influencing mental health and treatment behavior.
 
-📊 Dataset
+---
 
-Survey-based dataset containing responses related to:
+## 📊 Problem Statement
+Mental health issues are increasing, but a large number of individuals do not seek treatment due to lack of awareness, stigma, and limited access to care. This project aims to uncover the key factors behind this gap.
 
-Work stress
+---
 
-Care options
+## 📁 Dataset
+The dataset consists of survey responses covering:
+- Work-related stress
+- Availability of mental health care options
+- Treatment status (Yes/No)
+- Awareness about mental health support
 
-Treatment behavior
+---
 
-Mental health awareness
+## 🛠 Tools & Technologies
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- Jupyter Notebook
 
-🛠 Tools Used
+---
 
-Python (Pandas, NumPy)
+## 🔍 Key Insights
+- Individuals with access to care options are significantly more likely to seek treatment  
+- Lack of awareness or uncertainty about available support reduces treatment adoption  
+- Work-related stress shows a strong correlation with mental health issues  
+- Social and workplace factors play a critical role in mental well-being  
 
-Data Visualization (Matplotlib / Seaborn)
+---
 
-Jupyter Notebook
+## 💡 Recommendations
+- Increase awareness about mental health services and support systems  
+- Organizations should provide clear and accessible care options  
+- Promote mental health programs in workplaces  
+- Encourage early intervention and reduce stigma around seeking help  
 
-🔍 Key Insights
+---
 
-People with access to care options are more likely to seek treatment
+## 📈 Business Impact
+Improving awareness and accessibility of mental health resources can lead to:
+- Better employee productivity  
+- Reduced absenteeism  
+- Improved overall well-being in organizations  
 
-Lack of awareness reduces treatment probability
+---
 
-Work stress significantly impacts mental health
+## ✅ Conclusion
+Mental health outcomes are highly influenced by awareness, accessibility, and workplace conditions. Strengthening these factors can significantly improve treatment rates and overall well-being.
 
-Social and workplace factors influence mental well-being
-
-👉 (These align with real-world findings like workload and workplace culture affecting mental health )
-
-💡 Recommendations
-
-Increase awareness about mental health support
-
-Organizations should provide clear care options
-
-Encourage early mental health intervention
-
-Reduce stigma around seeking help
-
-✅ Conclusion
-
-Mental health outcomes are strongly influenced by awareness, accessibility, and workplace conditions. Improving these can significantly increase treatment adoption.
+---
